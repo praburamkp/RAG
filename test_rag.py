@@ -2,7 +2,7 @@ import tempfile
 import unittest
 from pathlib import Path
 
-from RAG.rag import LocalRAG
+from rag import LocalRAG
 
 
 class LocalRAGTests(unittest.TestCase):
